@@ -1,0 +1,3 @@
+/*
+Q. Implement BSA algorithm for drawing a line segment between two given points.
+*/

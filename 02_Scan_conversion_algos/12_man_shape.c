@@ -1,0 +1,3 @@
+/*
+Q. Implement a Program to draw a man shape
+*/
