@@ -1,0 +1,5 @@
+/*
+Take two coordinates of line and take the rotation nagle.
+Draw that line and rotate the points using the angle and draw the new translated line.
+
+*/

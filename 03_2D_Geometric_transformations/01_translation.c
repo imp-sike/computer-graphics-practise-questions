@@ -1,0 +1,5 @@
+/*
+Take two coordinates of line and take the translation vector.
+Draw that line and translate the points using the translation vector and draw the new translated line.
+
+*/

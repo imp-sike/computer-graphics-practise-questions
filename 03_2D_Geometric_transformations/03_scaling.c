@@ -1,0 +1,5 @@
+/*
+Take two coordinates of line and take the scaling factor.
+Draw that line and scale the points using the scale factor and draw the new translated line.
+
+*/
